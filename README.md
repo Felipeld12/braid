@@ -1,1 +1,1 @@
-add yolov10
+Add HUB-SDK docs (#7775)
